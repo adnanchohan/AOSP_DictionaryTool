@@ -14,3 +14,16 @@ This tool generates binary dictionaries with (.dict) file extension & can be cov
 ```bash
   java -jar dicttool_aosp.jar makedict -s <filename.combined> -d <filename.dict>
 ```
+
+## Credits
+[remi0s](https://github.com/remi0s/aosp-dictionary-tools)
+
+## License
+![Static Badge](https://img.shields.io/badge/MIT-License-blue)
+
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) license.
+
+## Queries
+[Adnan Chohan](https://github.com/adnanchohan)
+<br>
+Email: adnan.chohan104@gmail.com
